@@ -1,7 +1,7 @@
 # Online-exam-system
 
 Online examination system is a app for setup online quiz with so many functionality.
-It is a PHP project.
+It is a PHP project (using HTML,CSS,JS and MySQL).
 
 
 Instalation ::
@@ -18,9 +18,7 @@ Instalation ::
 Default admin email id is head@gmail.com and password is head .
 admin password is md5 encypted.
 
-For any query or feedback contact me at kpsagar1999@gmail.com.
-
-Thanx.
+Thanks.
 
 
 ## Precise Explanation regarding the work in detail :
@@ -29,7 +27,7 @@ INSTALLATION STEPS :
 2. Put this file inside WAMP or XAMPP server.
 3. Database Configuration
 - Open phpmyadmin
-- Create Database named project1​.
+- Create Database named "project1".
 - Import database project1.sql from downloaded folder(inside database)
 4. Open Your browser put inside "http://localhost/Online-Exam-System/"
 5. To Login as admin put the following details.
