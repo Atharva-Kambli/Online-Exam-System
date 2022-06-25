@@ -37,7 +37,7 @@ A feedback system available for suggesting improvements and registering complain
 
 
 
-### Instalation ::
+### Installation ::
 
 ### Steps
 
